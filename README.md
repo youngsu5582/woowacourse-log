@@ -8,6 +8,39 @@ CoReA로 완성하는 개발 성장의 퍼즐: 코드, 리뷰, 그리고 당신
 > 👉 [사이트 바로가기](https://code-review-area.com/) <br>
 > 👉 [GitHub 바로가기](https://github.com/woowacourse-teams/2024-corea) <br>
 
+<br>
+
+## 📒 Level 2
+
+| Project | Period | Repository | Pull Request & Review | Comment Count |
+|:-----:|:-----:|:---:|:---:|:---:|
+|방탈출 결제 & 배포 <br> `2~4`단계|`2024-05-31` ~ `2024-06-10`|[repository](https://github.com/youngsu5582/spring-roomescape-payment/tree/step2)|[pull request](https://github.com/woowacourse/spring-roomescape-payment/pull/143)|29개
+|방탈출 결제 & 배포 <br> 1단계|`2024-05-28` ~ `2024-05-30`|[repository](https://github.com/youngsu5582/spring-roomescape-payment/tree/step1)|[pull request](https://github.com/woowacourse/spring-roomescape-payment/pull/28)|42개
+|방탈출 예약 대기 <br> `3~4`단계|`2024-05-17` ~ `2024-05-27`|[repository](https://github.com/youngsu5582/spring-roomescape-waiting/tree/step2)|[pull request](https://github.com/woowacourse/spring-roomescape-waiting/pull/108)|56개
+|방탈출 예약 대기 <br> `1~2`단계|`2024-05-14` ~ `2024-05-16`|[repository](https://github.com/youngsu5582/spring-roomescape-waiting/tree/step1)|[pull request](https://github.com/woowacourse/spring-roomescape-waiting/pull/65)|50개
+|방탈출 사용자 예약 <br> `4~6`단계|`2024-05-03` ~ `2024-05-13`|[repository](https://github.com/youngsu5582/spring-roomescape-admin/tree/step2)|[pull request](https://github.com/woowacourse/spring-roomescape-member/pull/110)|59개
+|방탈출 사용자 예약 <br> `1~3`단계|`2024-04-30` ~ `2024-05-02`|[repository](https://github.com/youngsu5582/spring-roomescape-admin/tree/step1)|[pull request](https://github.com/woowacourse/spring-roomescape-member/pull/70)|87개
+|방탈출 예약 관리 <br> `10`단계|`2024-04-19` ~ `2024-04-29`|[repository](https://github.com/youngsu5582/spring-roomescape-admin/tree/step3)|[pull request](https://github.com/woowacourse/spring-roomescape-admin/pull/178)|16개
+|방탈출 예약 관리 <br> `4~9`단계|`2024-04-16` ~ `2024-04-18`|[repository](https://github.com/youngsu5582/spring-roomescape-admin/tree/step2)|[pull request](https://github.com/woowacourse/spring-roomescape-admin/pull/128)|69개
+|방탈출 예약 관리 <br> `1~3`단계|`2024-04-16` ~ `2024-04-18`|[repository](https://github.com/youngsu5582/spring-roomescape-admin/tree/step1)|[pull request](https://github.com/woowacourse/spring-roomescape-admin/pull/25)|13개
+
+<br>
+
+## 📙 Level 1
+
+| Project | Period | Repository | Pull Request & Review | Comment Count |
+|:-----:|:-----:|:---:|:---:|:---:|
+|체스 <br> `3~4`단계|`2024-03-22` ~ `2024-04-01`|[repository](https://github.com/youngsu5582/java-chess/tree/step2)|[pull request](https://github.com/woowacourse/java-chess/pull/783)|50개
+|체스 <br> `1~2`단계|`2024-03-19` ~ `2024-03-21`|[repository](https://github.com/youngsu5582/java-chess/tree/step1)|[pull request](https://github.com/woowacourse/java-chess/pull/721)|45개
+|블랙잭 <br> 2단계|`2024-03-11` ~ `2024-03-18`|[repository](https://github.com/youngsu5582/java-blackjack/tree/step2)|[pull request](https://github.com/woowacourse/java-blackjack/pull/753)|39개
+|블랙잭 <br> 1단계|`2024-03-05` ~ `2024-03-08`|[repository](https://github.com/youngsu5582/java-blackjack/tree/step1)|[pull request](https://github.com/woowacourse/java-blackjack/pull/652)|105개
+|사다리 <br> 2단계|`2024-02-23` ~ `2024-03-04`|[repository](https://github.com/youngsu5582/java-ladder/tree/step2)|[pull request](https://github.com/woowacourse/java-ladder/pull/365)|79개
+|사다리 <br> 1단계|`2024-02-20` ~ `2024-02-22`|[repository](https://github.com/youngsu5582/java-ladder/tree/step1)|[pull request](https://github.com/woowacourse/java-ladder/pull/287)|50개
+|자동차 경주 <br> 2단계|`2024-02-16` ~ `2024-02-19`|[repository](https://github.com/youngsu5582/java-racingcar/tree/step2)|[pull request](https://github.com/woowacourse/java-racingcar/pull/782)|13개
+|자동차 경주 <br> 1단계|`2024-02-13` ~ `2024-02-15`|[repository](https://github.com/youngsu5582/java-racingcar/tree/step1)|[pull request](https://github.com/woowacourse/java-racingcar/pull/713)|39개
+
+<br>
+
 ## 📔 Writing
 
 > 우아한테크코스 중 작성한 글만 정리했습니다.
