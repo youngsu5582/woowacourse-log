@@ -65,3 +65,6 @@ CoReA로 완성하는 개발 성장의 퍼즐: 코드, 리뷰, 그리고 당신
 18. [데이터 테스트를 위한 가짜 데이터 만들기 - Bash 스크립트](https://velog.io/@dragonsu/데이터-테스트를-위한-가짜-데이터-만들기-Bash-스크립트) - 2024년 10월 8일
 19. [PR 병합때 알림 받는 내용을 의미있게 with naver pr stats 워크플로우](https://velog.io/@dragonsu/PR-병합때-알림-받는-내용을-의미있게-with-naver-pr-stats-워크플로우) - 2024년 10월 13일
 20. [지속 성장 가능한 프로젝트를 위해 시도해볼 수 있는 것(1) - 서비스 계층을 서비스 계층 답게](https://velog.io/@dragonsu/지속-성장-가능한-프로젝트를-위해-시도해볼-수-있는-것1-서비스-계층을-서비스-계층-답게) - 2024년 10월 20일
+21. [서버가 배포되면, 슬랙으로 배포 결과와 배포한 커밋까지? with AWS CodePipeline](https://velog.io/@dragonsu/%EC%84%9C%EB%B2%84%EA%B0%80-%EB%B0%B0%ED%8F%AC%EB%90%98%EB%A9%B4-%EC%8A%AC%EB%9E%99%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC-%EA%B2%B0%EA%B3%BC%EC%99%80-%EB%B0%B0%ED%8F%AC%ED%95%9C-%EC%BB%A4%EB%B0%8B%EA%B9%8C%EC%A7%80-with-AWS-CodePipeline) - 2024년 11월 4일
+22. [외부 API 호출을 30% 가량 빠르게(1) - 기본 로직](https://velog.io/@dragonsu/%EC%99%B8%EB%B6%80-API-%ED%98%B8%EC%B6%9C%EC%9D%84-30-%EA%B0%80%EB%9F%89-%EB%B9%A0%EB%A5%B4%EA%B2%8C1-%EA%B8%B0%EB%B3%B8-%EB%A1%9C%EC%A7%81) - 2024년 11월 8일
+23. [외부(깃허브) 호출을 비동기로 30% 가량 빠르게(2) - 스레드 튜닝, 측정](https://velog.io/@dragonsu/%EC%99%B8%EB%B6%80%EA%B9%83%ED%97%88%EB%B8%8C-%ED%98%B8%EC%B6%9C%EC%9D%84-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%A1%9C-30-%EA%B0%80%EB%9F%89-%EB%B9%A0%EB%A5%B4%EA%B2%8C2-%EC%8A%A4%EB%A0%88%EB%93%9C-%ED%8A%9C%EB%8B%9D-%EC%B8%A1%EC%A0%95) - 2024년 11월 9일
