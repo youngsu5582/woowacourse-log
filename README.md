@@ -13,8 +13,8 @@ CoReA로 완성하는 개발 성장의 퍼즐: 코드, 리뷰, 그리고 당신
 ## 📒 Level 2
 
 | Project | Period | Repository | Pull Request & Review | Comment Count |
-|:-----:|:-----:|:---:|:---:|:---:|
-|방탈출 결제 & 배포 <br> `2~4`단계|`2024-05-31` ~ `2024-06-10`|[repository](https://github.com/youngsu5582/spring-roomescape-payment/tree/step2)|[pull request](https://github.com/woowacourse/spring-roomescape-payment/pull/143)|29개
+|:-------:|:------:|:---:|:---:|:---:|
+|방탈출 결제 & 배포<br>`2~4`단계|`2024-05-31` ~ `2024-06-10`|[repository](https://github.com/youngsu5582/spring-roomescape-payment/tree/step2)|[pull request](https://github.com/woowacourse/spring-roomescape-payment/pull/143)|29개
 |방탈출 결제 & 배포 <br> 1단계|`2024-05-28` ~ `2024-05-30`|[repository](https://github.com/youngsu5582/spring-roomescape-payment/tree/step1)|[pull request](https://github.com/woowacourse/spring-roomescape-payment/pull/28)|42개
 |방탈출 예약 대기 <br> `3~4`단계|`2024-05-17` ~ `2024-05-27`|[repository](https://github.com/youngsu5582/spring-roomescape-waiting/tree/step2)|[pull request](https://github.com/woowacourse/spring-roomescape-waiting/pull/108)|56개
 |방탈출 예약 대기 <br> `1~2`단계|`2024-05-14` ~ `2024-05-16`|[repository](https://github.com/youngsu5582/spring-roomescape-waiting/tree/step1)|[pull request](https://github.com/woowacourse/spring-roomescape-waiting/pull/65)|50개
